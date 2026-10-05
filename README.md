@@ -2,6 +2,8 @@
 
 Sakarya Üniversitesi ISE 427 Tıpta Yapay Zeka dersi (2025-2026 Güz) için yaptığım proje. UCI'daki Cleveland kalp hastalığı veri seti üzerinde beş standart sınıflandırıcıyı (lojistik regresyon, SVM, karar ağacı, random forest, KNN) ve her birinin tıbbi veriye göre değiştirdiğim birer versiyonunu karşılaştırdım. Toplam 10 model aynı ön işleme ve aynı test kümesiyle değerlendirildi.
 
+**Canlı rapor:** https://yigitkalaycioglu.github.io/Medical-Diagnostic-Support-System-Unique-Machine-Learning-Approaches-for-Heart-Disease-Diagnosis/ — sonuçlar, grafikler ve çıktılarıyla birlikte not defterleri tarayıcıda görüntülenebilir.
+
 ## Veri ve ön işleme
 
 Veri seti 303 hasta kaydı ve 14 sütundan oluşuyor (yaş, cinsiyet, göğüs ağrısı tipi, kan basıncı, kolesterol, maksimum nabız vb. ve hedef: 0 sağlıklı, 1 hasta).
